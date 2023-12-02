@@ -1,0 +1,16 @@
+.w{
+    background-color: aliceblue;
+}
+.b{
+    background-color: black;
+}
+table,th,tr,td{
+border: 2px solid black ;
+
+}
+.chess{
+   width: 300px;
+   height: 300px;
+   border-collapse: collapse;
+}
+    
